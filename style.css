@@ -1,0 +1,33 @@
+.c-item {
+height: 480px;
+}
+.c-img {
+ height: 100%;
+ object-fit: cover;
+ margin-left: 100px;
+ margin-right: 200px;
+ border: 2px solid black;
+position: relative;
+}
+h1{
+    text-align: center;
+}
+html, body {
+    margin: 50px;
+    border: 50px;
+  }
+h5 {
+    color: white;
+}
+.card {
+margin: 50px;
+}
+.contact {
+    text-align: left;
+    margin: 30px;
+}
+iframe {
+    float: right;
+    width: 350px;
+    height: 350px;
+}
